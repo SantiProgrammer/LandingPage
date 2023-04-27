@@ -13,7 +13,7 @@ _Git clone to get a copy of the project_
 _Run:_
 
 ```bash
-git clone https://github.com/santi-iztli/portfolio.git
+git clone https://github.com/santi-iztli/LandingPage
 ```
 
 ## Prerequisites 📋
